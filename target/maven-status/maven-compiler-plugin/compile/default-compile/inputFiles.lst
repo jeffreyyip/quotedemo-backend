@@ -1,0 +1,8 @@
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/QuoteHandler.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/CorsFilter.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/QuoteAverage.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/ServerApp.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/Quote.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/RedisQuoteRepository.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/QuoteRepository.java
+/Users/jeffreyyip/GitHub/quotedemo-backend/src/main/java/com/jy/quotedemo/MockQuoteRepository.java

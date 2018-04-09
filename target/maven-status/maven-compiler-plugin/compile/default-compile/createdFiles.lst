@@ -1,0 +1,8 @@
+com/jy/quotedemo/QuoteRepository.class
+com/jy/quotedemo/Quote.class
+com/jy/quotedemo/ServerApp.class
+com/jy/quotedemo/QuoteAverage.class
+com/jy/quotedemo/QuoteHandler.class
+com/jy/quotedemo/RedisQuoteRepository.class
+com/jy/quotedemo/CorsFilter.class
+com/jy/quotedemo/MockQuoteRepository.class
